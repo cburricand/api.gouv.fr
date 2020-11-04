@@ -96,7 +96,7 @@ content_intro: |
 | Composition familiale     | Liste des parents et des enfants de la famille (avec nom, prénoms, date de naissance)  | CAF                                                                               |
 | Adresse                   | L'adresse structurée détenue par la CAF                                                | CAF                                                                               |
 | Statut demandeur d'emploi | Si applicable, les informations de statut demandeur d‘emploi d‘un individu             | Pôle-Emploi                                                                       |
-| Statut étudiant           | Si applicable, les informations de statut étudiant d‘un individu                       | Ministère de l'enseignement supérieur, de la recherche et de l'innovation (MESRI) |
+| Statut étudiant           | les informations du statut étudiant d‘un individu                                      | Ministère de l'enseignement supérieur, de la recherche et de l'innovation (MESRI) |
 
 Pour plus d’informations techniques sur la structuration des données, vous pouvez <External href='/documentation/api-particulier'>consulter la documentation technique</External>
 
@@ -107,3 +107,11 @@ Seules les données des deux dernières années sont disponibles. Par exemple en
 Les déclarants du foyer fiscal sont la(le) contribuable elle(lui)-même et le(la) conjoint(e) ou partenaire de Pacs.
 
 L’Adresse est celle connue au 1er janvier de l’année d’imposition (exemple au 1er janvier 2018 pour les revenus de 2017)
+
+### Précisions sur les données étudiantes (MESRI)
+
+Seules les données portant sur le champ des établissements de formation du supérieur sous tutelle du Ministère de l'enseignement du supérieur seront disponibles dans 
+
+un premier temps, et sur le champ des néo-bacheliers ou étudiants déjà connus dans l'enseignement supérieur depuis l'année scolaire 2018-2019. La couverture sera 
+
+progressivement complété des autres établissements et champ d'étudiants d'ici 2022.
