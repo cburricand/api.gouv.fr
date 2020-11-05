@@ -107,3 +107,9 @@ Seules les données des deux dernières années sont disponibles. Par exemple en
 Les déclarants du foyer fiscal sont la(le) contribuable elle(lui)-même et le(la) conjoint(e) ou partenaire de Pacs.
 
 L’Adresse est celle connue au 1er janvier de l’année d’imposition (exemple au 1er janvier 2018 pour les revenus de 2017)
+
+### Précisions sur les données Statut Etudiant (MESRI)
+
+Seules les données des étudiants inscrits dans un établissement sous tutelle du ministère de l'enseignement supérieur sont disponibles et sur le seul champ des étudiants néo-bacheliers en 2020 ou déjà inscrits dans l'enseignement supérieur en 2018-2019 ou 2019-2020. 
+
+La couverture des établissements et du champ des étudiants sera pogressivement complétée d'ici la rentrée 2022.
